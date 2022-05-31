@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miercoles</string>
+    <string name="textViewSaludo">Hellow EPN</string>
+    <string name="textViewTitle">Calendario EPN</string>
+    <string name="textBuy">Buy Now</string>
+    <string name="textPrecio">Precio</string>
+    <string name="textViewdetails">DETAILS</string>
+    <string name="textViewConstraint">Constraint Layout</string>
+    <string name="textViewTable">Table Layout</string>
+    <string name="textViewLinear">Linear Layout</string>
+
+</resources>
