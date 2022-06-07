@@ -8,5 +8,6 @@
     <string name="textViewConstraint">Constraint Layout</string>
     <string name="textViewTable">Table Layout</string>
     <string name="textViewLinear">Linear Layout</string>
+    <string name="textoLogin">Login</string>
 
 </resources>
