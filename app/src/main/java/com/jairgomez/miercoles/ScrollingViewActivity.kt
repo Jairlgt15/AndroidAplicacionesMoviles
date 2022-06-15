@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class ScrollingViewActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
+    /*override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_scrolling_view)
         val editTextDatos = findViewById<EditText>(R.id.editTextDatos)
@@ -18,5 +18,5 @@ class ScrollingViewActivity : AppCompatActivity() {
             textViewMostrarTexto.text = ""
             editTextDatos.setText("")
         }
-    }
+    }*/
 }
