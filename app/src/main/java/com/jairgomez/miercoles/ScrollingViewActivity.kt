@@ -2,11 +2,13 @@ package com.jairgomez.miercoles
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
+import android.widget.EditText
+import android.widget.TextView
 
 class ScrollingViewActivity : AppCompatActivity() {
-    /*override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_scrolling_view)
         val editTextDatos = findViewById<EditText>(R.id.editTextDatos)
         val textViewMostrarTexto = findViewById<TextView>(R.id.textViewMostrarTexto)
         val buttonGuardar = findViewById<Button>(R.id.buttonGuardar)
@@ -18,5 +20,6 @@ class ScrollingViewActivity : AppCompatActivity() {
             textViewMostrarTexto.text = ""
             editTextDatos.setText("")
         }
-    }*/
+
+    }
 }
